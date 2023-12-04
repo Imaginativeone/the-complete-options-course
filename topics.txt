@@ -1,0 +1,365 @@
+The Complete Options Course: Calls, Puts, Long, Short & More
+Section 01: Section 1.0: Course Introduction & How to Take this Course
+  001. How to Take the Course and How to Access the Many Excel Exercises (Part 1 of 2) | 7min
+  002. How to Take the Course and How to Access the Many Excel Exercises (Part 2 of 2) | 24min
+  003. How to Ask me Questions Live on my Weekly Webcast (Includes Zoom) | 1min
+Section 02: Section 1.1 Option and Stock Volatility, the Vix and More
+  004. [B/G/A] Lecture 1.1: The Bigger Picture: Option Volatility & the Vix | 19min
+  005. [B/G/A] Exercise 1.1: The Bigger Picture: Option Volatility & the Vix | 11min
+  006. [B/G/A] Quiz 1.1: The Bigger Picture: Option Volatility & the Vix | 2min
+Section 03: [Optional Section] 1.2: Going Long and Short, Stocks, ETFs, Commodities & More
+  007. [A/*/*] Introduction to Going Long and Going Short Stocks, ETFs, Commodities & More | 2min
+  008. [A/*/*] Lecture 1.2.1: Going Long and Going Short Stocks, ETFs, Commodities & More | 15min
+  009. [A/*/*] Exercise 1.2.1: Going Long a Stock (Also Called a Owning a Stock) | 7min
+  010. [A/*/*] Exercise 1.2.2: Going Short a Stock | 1min
+  011. [A/*/*] Exercise 1.2.3: Going Long a Country Based ETF | 3min
+  012. [A/*/*] Exercise 1.2.4: Going Short a Country Based ETF | 1min
+  013. [A/*/*] Exercise 1.2.5: Going Long a Sector Based ETF | 2min
+  014. [A/*/*] Exercise 1.2.6: Going Short a Sector Based ETF | 1min
+  015. [A/*/*] Exercise 1.2.7: Going Long a Commodity Based ETF | 3min
+  016. [A/*/*] Exercise 1.2.8 Going Short a Commodity Based ETF | 1min
+  017. [A/*/*] Quiz 1.2: Going Long and Going Short Stocks, ETFs, Commodities & More | 1min
+Section 04: Section 1.3: The Basics of How Options Work (Tickers, Calls, Puts & More)
+  018. [B/A/*] Introduction to The Basics of How Options Work (Tickers,Calls,Puts & More) | 3min
+  019. [B/A/*] Lecture 1.3.1: Calls are Easy to Learn if We Compare them to Insurance | 8min
+  020. [B/A/*] Lecture 1.3.2: Option Leverage & Strike Prices and a BIG Surprise : ) | 17min
+  021. [B/A/*] Lecture 1.3.3: Exercising Call Options for the Long Owner of a Call | 2min
+  022. [B/A/*] Lecture 1.3.4: Introduction to Greek Formulas | 8min
+  023. [B/A/*] Lecture 1.3.5: Intro. to Option Writing & Buying Our First Call Option | 13min
+  024. [B/A/*] Lecture 1.3.6: Selling and Exercising Our First Long Call Option | 5min
+  025. [B/A/*] Lecture 1.3.7: Writing (Shorting) Our First Call Option & Assignment Risk | 11min
+  026. [B/A/*] Lecture 1.3.8: Buying (Meaning Going Long) Our First Put Option | 6min
+  027. [B/A/*] Lecture 1.3.9: Selling and Exercising Our First Long Put Option | 2min
+  028. [B/A/*] Lecture 1.3.10: Writing (Shorting) Our First Put Option & Assignment Risk | 4min
+  029. [B/A/*] Lecture 1.3.11: How to Read Option Tickers | 1min
+  030. [B/A/*] Exercise 1.3.1: How to Read Option Tickers | 2min
+  031. [B/A/*] Exercise 1.3.2: How Do We Value a Call (Plus Volatility & Dividends)? Pt 1 | 13min
+  032. [B/A/*] Exercise 1.3.2: How Do We Value a Call (Plus Volatility & Dividends)? Pt 2 | 17min
+  033. [B/A/*] Exercise 1.3.3: How Much Can We Make or Lose When We’re Long a Call Option | 6min
+  034. [B/A/*] Exercise 1.3.4: Comparing Profits & Losses for Owning a Stock Vs. a Call | 6min
+  035. [B/A/*] Exercise 1.3.5: What is a Put Option and How Do We Value a Put Option? | 9min
+  036. [B/A/*] Exercise 1.3.6: How Much Can We Make or Lose When Buying a Put Option? | 3min
+  037. [B/A/*] Exercise 1.3.7: Comparing Profits & Losses for Short Stock Vs. Long a Put | 6min
+  038. [B/A/*] Exercise 1.3.8: What’s a Short Call & How Do We Value a Short Call? | 10min
+  039. [B/A/*] Exercise 1.3.9: How Much Can We Make or Lose When Shorting a Call Option? | 3min
+  040. [B/A/*] Exercise 1.3.10: What’s a Short Put & How Do We Value a Short Put? | 7min
+  041. [B/A/*] Exercise 1.3.11: How Much Can We Make or Lose When Shorting a Put Option? | 3min
+  042. [B/A/*] Quiz 1.3: The Basics of How Options Work (Tickers, Calls, Puts & More) | 1min
+  043. [*/A/*] Optional Side Note: Opening an Options Account and Using Options Software | 12min
+Section 05: Section 1.4: Pricing a Long or Short Call or Put
+  044. [B/A/*] Introduction to Pricing a Long or Short Call or Put | 4min
+  045. [B/A/*] Lecture 1.4.1: Understanding Historical Versus Implied Volatility Pt 1 | 10min
+  046. [B/A/*] Lecture 1.4.1: Understanding Historical Versus Implied Volatility Pt 2 | 11min
+  047. [B/A/*] Lecture 1.4.2: Understanding Open Interest and Volume | 4min
+  048. [B/A/*] Lecture 1.4.3: Options Best Practices Pt 1 | 11min
+  049. [B/A/*] Lecture 1.4.3: Options Best Practices Pt 2 | 13min
+  050. [B/A/*] Exercise 1.4.1: Detailed Analysis of Pricing a Long Call Option Pt 1 | 15min
+  051. [B/A/*] Exercise 1.4.1: Detailed Analysis of Pricing a Long Call Option Pt 2 | 6min
+  052. [B/A/*] Exercise 1.4.2: Detailed Analysis of Pricing a Long Put Option | 14min
+  053. [B/A/*] Exercise 1.4.3: Detailed Analysis of Pricing a Short Call Option Pt 1 | 10min
+  054. [B/A/*] Exercise 1.4.4: Detailed Analysis of Pricing a Short Put Option | 4min
+  055. [B/A/*] Exercise 1.4.5: Your Automated Option Strategy 1 Page Print/PDF Report | 6min
+  056. [B/A/*] Quiz 1.4: Pricing a Long or Short Call or Put | 1min
+  057. [*/A/*] Optional Side Note: What Are Futures (Another Derivative Product)? | 18min
+Section 06: Section 2.0: Valuation and Analysis of Options
+  058. [B/G/A] Intro to Section 2 & How to Download the Option Dashboard for Section 2 | 5min
+Section 07: Section 2.1: Statistics and Greek Formulas to Analyze Options
+  059. [B/G/A] Lecture 2.1.1: Protecting [Hedging] Your House & Risk Management Pt 1 | 8min
+  060. [B/G/A] Lecture 2.1.1: Protecting [Hedging] Your House & Risk Management Pt 2 | 13min
+  061. [B/G/A] Lecture 2.1.2: Statistics & Historical and Implied Volatility | 10min
+  062. [B/G/A] Lecture 2.1.3: “AB-Normal” Distribution and Volatility to Predict Prices | 15min
+  063. [B/G/A] Lecture 2.1.4: Detailed Description of Greek Formulas for Options Pt 1 | 13min
+  064. [B/G/A] Lecture 2.1.4: Detailed Description of Greek Formulas for Options Pt 2 | 18min
+  065. [B/G/A] Exercise 2.1.1: Statistics and Greek Formulas to Analyze Options | 3min
+  066. [B/G/A] Quiz 2.1: Statistics and Greek Formulas to Analyze Options | 1min
+Section 08: Section 2.2: How to Value Options Using Binomial Pricing
+  067. [B/G/A] Lecture 2.2.1: Intro to How to Value Options Using Binomial Pricing | 5min
+  068. [B/G/A] Lecture 2.2.2:Using a Basic 4 Branch Model to Estimate Call Option Price | 17min
+  069. [B/G/A] Lecture 2.2.3: How Does Binomial Pricing Work? | 15min
+  070. [B/G/A] Exercise 2.2.1: How to Value Calls Using a Basic 4 Step Decision Tree | 1min
+  071. [B/G/A] Exercise 2.2.2: How to Value Options Using Binomial Pricing | 1min
+  072. [*/A/*] Optional Side Note: Make Tough Decisions Using Probabilities | 6min
+  073. [*/A/*] Optional Side Note: How the Best Hedge Fund Uses Software to Make 60%/Year | 5min
+  074. [B/G/A] Quiz 2.2: How to Value Options Using Binomial Pricing | 1min
+Section 09: Section 2.3: How to Value Options Using Black Scholes
+  075. [G/A/*] Lecture 2.3.1: How to Value Options Using Black Scholes | 4min
+  076. [G/A/*] Exercise 2.3.1: How to Value Options Using Black Scholes | 1min
+  077. [G/A/*] Quiz 2.3: How to Value Options Using Black Scholes | 1min
+  078. [A/*/*] Optional Side Note: What are Forwards (Another Derivative Product) | 2min
+Section 10: Section 2.4: How to Value Options Using Monte Carlo Simulation
+  079. [G/A/*] Lecture 2.4.1: How to Value Options Using Monte Carlo Simulation | 16min
+  080. [G/A/*] Exercise 2.4.1: How to Value Options Using Monte Carlo Simulation | 1min
+  081. [G/A/*] Quiz 2.4: How to Value Options Using Monte Carlo Simulation | 1min
+  082. [A/*/*] Side Note: What Are Swaps? (Another Derivatives Product) | 4min
+Section 11: Section 3.0: 35+ Option Strategies
+  083. [B/G/A] Intro to Section 3 & How to Download the Option Dashboards for Section 3 | 19min
+  084. Side Note: How Accurate is the TV Show Billions? | 28min
+Section 12: Section 3.1: Creating Single Option Strategies
+  085. [B/G/A] Lecture 3.1.1: Creating the Long Call Options Strategy | 7min
+  086. [B/G/A] Exercise 3.1.1: Creating the Long Call Option Strategy | 12min
+  087. [B/G/A] Lecture 3.1.2: Creating the LEAPS Call Option Strategy | 4min
+  088. [B/G/A] Exercise 3.1.2: Creating the LEAPS Call Option Strategy | 5min
+  089. [B/G/A] Lecture 3.1.3: Creating the Long Put Option Strategy | 4min
+  090. [B/G/A] Exercise 3.1.3: Creating the Long Put Option Strategy | 8min
+  091. [B/G/A] Lecture 3.1.4: Creating the LEAPS Put Option Strategy | 3min
+  092. [B/G/A] Exercise 3.1.4: Creating the LEAPS Put Option Strategy | 7min
+  093. [B/G/A] Lecture 3.1.5: Creating the Short Call Option Strategy | 7min
+  094. [B/G/A] Exercise 3.1.5: Creating the Short Call Option Strategy | 7min
+  095. [B/G/A] Lecture 3.1.6: Creating the Short Put Option Strategy | 4min
+  096. [B/G/A] Exercise 3.1.6: Creating the Short Put Option Strategy | 5min
+  097. [B/G/A] Lecture 3.1.7: Creating the Cash Secured Put Option Strategy | 4min
+  098. [B/G/A] Exercise 3.1.7: Creating the Cash Secured Put Option Strategy | 1min
+  099. [B/G/A] Lecture 3.1.8: Creating Other Single Option Strategies | 1min
+  100. [B/G/A] Exercise 3.1.8: Creating Other Single Options Strategies | 1min
+  101. [A/*/*] Optional Side Note: Fundamental Investment Analysis | 13min
+  102. [A/*/*] Optional Side Note: Catalyst Based Investment Analysis | 3min
+  103. [A/*/*] Optional Side Note: Technical Analysis Based Investment Analysis | 8min
+  104. [B/G/A] Quiz 3.1: Creating Single Option Strategies | 1min
+Section 13: Section 3.2: Creating 1 Stock PLUS Single Option Strategies
+  105. [B/G/A] Lecture 3.2.0: Intro. to Creating 1 Stock PLUS Single Option Strategies | 1min
+  106. [B/G/A] Lecture 3.2.1: Creating the Married Put Option Strategy | 5min
+  107. [B/G/A] Exercise 3.2.1: Creating the Married Put Option Strategy | 10min
+  108. [B/G/A] Lecture 3.2.2: Creating the Covered Call Option Strategy | 5min
+  109. [B/G/A] Exercise 3.2.2: Creating the Covered Call Option Strategy | 7min
+  110. [B/G/A] Lecture 3.2.3: Creating Other 1 Stock + Single Option Strategies | 1min
+  111. [B/G/A] Exercise 3.2.3: Creating Other 1 Stock + Single Option Strategies | 1min
+  112. [B/G/A] Quiz 3.2: Creating 1 Stock PLUS Single Option Strategies | 1min
+Section 14: Section 3.3: Creating Two Options Strategies
+  113. [B/G/A] Lecture 3.3.0: Introduction to Creating Two Options Strategies | 5min
+  114. [B/G/A] Lecture 3.3.1: Creating the Long Straddle Options Strategy | 6min
+  115. [B/G/A] Exercise 3.3.1: Creating the Long Straddle Option Strategy | 13min
+  116. [B/G/A] Lecture 3.3.2: Creating the Short Straddle Option Strategy | 5min
+  117. [B/G/A] Exercise 3.3.2: Creating the Short Straddle Option Strategy | 4min
+  118. [B/G/A] Lecture 3.3.3: Creating the Long Strangle Option Strategy | 6min
+  119. [B/G/A] Exercise 3.3.3: Creating the Long Strangle Option Strategy | 8min
+  120. [B/G/A] Lecture 3.3.4: Creating the Short Strangle Option Strategy | 4min
+  121. [B/G/A] Exercise 3.3.4: Creating the Short Strangle Option Strategy | 3min
+  122. [B/G/A] Lecture 3.3.5: Creating the Bull Call Spread Option Strategy | 5min
+  123. [B/G/A] Exercise 3.3.5: Creating the Bull Call Spread Option Strategy | 8min
+  124. [B/G/A] Lecture 3.3.6: Creating the Bear Call Spread Option Strategy | 4min
+  125. [B/G/A] Exercise 3.3.6: Creating the Bear Call Spread Option Strategy | 4min
+  126. [B/G/A] Lecture 3.3.7: Creating the Bear Put Spread Option Strategy | 5min
+  127. [B/G/A] Exercise 3.3.7: Creating the Bear Put Spread Option Strategy | 3min
+  128. [B/G/A] Lecture 3.3.8: Creating the Bull Put Spread Option Strategy | 3min
+  129. [B/G/A] Exercise 3.3.8: Creating the Bull Put Spread Option Strategy | 2min
+  130. [B/G/A] Lecture 3.3.9: Creating the Synthetic Long Option Strategy | 3min
+  131. [B/G/A] Exercise 3.3.9: Creating the Synthetic Long Option Strategy | 3min
+  132. [B/G/A] Lecture 3.3.10: Creating the Synthetic Short Option Strategy | 3min
+  133. [B/G/A] Exercise 3.3.10: Creating the Synthetic Short Option Strategy | 3min
+  134. [B/G/A] Lecture 3.3.11: Creating the Collar Option Strategy | 3min
+  135. [B/G/A] Exercise 3.3.11: Creating the Collar Option Strategy | 4min
+  136. [B/G/A] Lecture 3.3.12: Creating Fig Leaf Option Strategy | 3min
+  137. [B/G/A] Exercise 3.3.12: Creating Fig Leaf Option Strategy | 4min
+  138. [B/G/A] Lecture 3.3.13: Creating Other Two Option Strategies | 1min
+  139. [B/G/A] Exercise 3.3.13: Creating Other Two Options Strategies | 1min
+  140. [B/G/A] Quiz 3.3: Creating Two Options Strategies | 1min
+Section 15: Section 3.4: Creating Four Options Strategies
+  141. [G/A/*] Lecture 3.4.0: Introduction to Creating the Four Options Strategy | 13min
+  142. [G/A/*] Lecture 3.4.1: Creating the Short Iron Condor Options Strategy | 7min
+  143. [G/A/*] Exercise 3.4.1: Creating the Short Iron Condor Option Strategy Part 1 | 7min
+  144. [G/A/*] Exercise 3.4.1: Creating the Short Iron Condor Option Strategy Pt 2 | 14min
+  145. [G/A/*] Lecture 3.4.2: Creating the Long Iron Condor Option Strategy | 6min
+  146. [G/A/*] Exercise 3.4.2: Creating the Long Iron Condor Option Strategy | 6min
+  147. [G/A/*] Lecture 3.4.3: Creating the Long Condor Spread with Calls Option Strategy | 6min
+  148. [G/A/*] Exercise 3.4.3: Creating the Long Condor Spread with Calls Option Strategy | 6min
+  149. [G/A/*] Lecture 3.4.4: Creating the Long Condor Spread with Puts Option Strategy | 3min
+  150. [G/A/*] Exercise 3.4.4: Creating the Long Condor Spread with Puts Option Strategy | 3min
+  151. [G/A/*] Lecture 3.4.5: Creating the Short Iron Butterfly Option Strategy | 3min
+  152. [G/A/*] Exercise 3.4.5: Creating the Short Iron Butterfly Option Strategy | 9min
+  153. [G/A/*] Lecture 3.4.6: Creating the Long Iron Butterfly Option Strategy | 3min
+  154. [G/A/*] Exercise 3.4.6: Creating the Long Iron Butterfly Option Strategy | 3min
+  155. [G/A/*] Lecture 3.4.7: Creating the Butterfly Spread with Calls Option Strategy | 3min
+  156. [G/A/*] Exercise 3.4.7: Creating the Butterfly Spread with Calls Option Strategy | 4min
+  157. [G/A/*] Lecture 3.4.8: Creating the Butterfly Spread with Puts Option Strategy | 3min
+  158. [G/A/*] Exercise 3.4.8: Creating the Butterfly Spread with Puts Option Strategy | 4min
+  159. [G/A/*] Lecture 3.4.9: Creating Long Inverse Skip Butterfly with Calls Strategy | 6min
+  160. [G/A/*] Exercise 3.4.9: Creating Long Inverse Skip Butterfly with Calls Strategy | 10min
+  161. [G/A/*] Lecture 3.4.10: Creating Long Inverse Skip Butterfly with Puts Strategy | 5min
+  162. [G/A/*] Exercise 3.4.10: Creating Long Inverse Skip Butterfly with Puts Strategy | 7min
+  163. [G/A/*] Lecture 3.4.11: Creating Long a Skip Strike Butterfly with Calls Strategy | 3min
+  164. [G/A/*] Exercise 3.4.11: Creating Long a Skip Strike Butterfly with Calls Strategy | 7min
+  165. [G/A/*] Lecture 3.4.12: Creating Long a Skip Strike Butterfly with Puts Strategy | 3min
+  166. [G/A/*] Exercise 3.4.12: Creating Long a Skip Strike Butterfly with Puts Strategy | 7min
+  167. [G/A/*] Lecture 3.4.13: Creating Other Four Option Strategies | 1min
+  168. [G/A/*] Exercise 3.4.13: Creating Other Four Options Strategies | 1min
+  169. [G/A/*] Quiz 3.4: Creating the Four Options Strategy | 1min
+Section 16: Section 3.5: Creating Three Options Strategies
+  170. [G/A/*] Lecture 3.5.0: Introduction to Creating the Three Options Strategies | 3min
+  171. [G/A/*] Lecture 3.5.1: Creating the Back Spread with Calls Options Strategy | 4min
+  172. [G/A/*] Exercise 3.5.1: Creating the Back Spread with Calls Option Strategy | 13min
+  173. [G/A/*] Lecture 3.5.2: Creating the Back Spread with Puts Option Strategy | 3min
+  174. [G/A/*] Exercise 3.5.2: Creating the Back Spread with Puts Option Strategy | 8min
+  175. [G/A/*] Lecture 3.5.3: Creating the Front Spread with Calls Option Strategy | 2min
+  176. [G/A/*] Exercise 3.5.3: Creating the Front Spread with Calls Option Strategy | 5min
+  177. [G/A/*] Lecture 3.5.4: Creating the Front Spread with Puts Option Strategy | 2min
+  178. [G/A/*] Exercise 3.5.4: Creating the Front Spread with Puts Option Strategy | 5min
+  179. [G/A/*] Lecture 3.5.5: Creating Other Three Option Strategies | 1min
+  180. [G/A/*] Exercise 3.5.5: Creating Other Three Options Strategies | 1min
+  181. [G/A/*] Quiz 3.5: Creating Three Options Strategies | 1min
+Section 17: Index of Options and Investment Terms (All Videos Are Sorted Alphabetically)
+  182. Alpha | 3min
+  183. American Versus European Style Options | 2min
+  184. Assignment | 2min
+  185. At The Money [ATM] | 1min
+  186. Back Spread with Calls Option Strategy (Uses 3 Options) | 4min
+  187. Back Spread with Puts Option Strategy (Uses 3 Options) | 2min
+  188. Bear Call Spread Option Strategy (Uses 2 Options) | 4min
+  189. Bear Put Spread Option Strategy (Uses 2 Options) | 4min
+  190. Bearish | 1min
+  191. Beta | 3min
+  192. Bid Ask | 2min
+  193. Binomial Option Valuation | 3min
+  194. Black-Scholes Option Valuation | 1min
+  195. Broken Wing Option Strategy (Uses 4 Options) | 3min
+  196. Bull Call Spread Option Strategy (Uses 2 Options) | 5min
+  197. Bull Put Spread Option Strategy (Uses 2 Options) | 3min
+  198. Bullish | 1min
+  199. Butterfly Spread with Calls Option Strategy (Uses 4 Options) | 2min
+  200. Butterfly Spread with Puts Option Strategy (Uses 4 Options) | 2min
+  201. Buy to Close | 1min
+  202. Buy to Open | 1min
+  203. Call Option | 7min
+  204. Call or Put | 7min
+  205. Cash Secured Put Option Strategy (Uses 1 Option) | 3min
+  206. Catalyst | 2min
+  207. CBOE | 2min
+  208. Collar Option Strategy (Uses 2 Options) | 3min
+  209. Condor Spread with Calls Option Strategy (Uses 4 Options) | 6min
+  210. Condor Spread with Puts Option Strategy (Uses 4 Options) | 3min
+  211. Covered Call Option Strategy (Uses 1 Option and 1 Stock) | 5min
+  212. Credit Call Spread Option Strategy (Uses 2 Options) | 4min
+  213. Credit Put Spread Option Strategy (Uses 2 Options) | 3min
+  214. Debit Call Spread Option Strategy (Uses 2 Options) | 5min
+  215. Debit Put Spread Option Strategy (Uses 2 Options) | 4min
+  216. Delta | 1min
+  217. Derivative | 2min
+  218. ETF | 16min
+  219. Exercising Option | 1min
+  220. Expiration Date | 3min
+  221. Extrinsic | 1min
+  222. Fig Leaf Option Strategy (Uses 2 Options) | 3min
+  223. Forwards | 2min
+  224. Front Spread with Calls Option Strategy (Uses 3 Options) | 2min
+  225. Front Spread with Puts Option Strategy (Uses 3 Options) | 1min
+  226. Fundamental Investment Analysis | 13min
+  227. Futures | 18min
+  228. Gamma | 1min
+  229. Greek Formulas | 3min
+  230. Hedging | 5min
+  231. Historical Volatility | 10min
+  232. How to Navigate the Spreadsheets | 19min
+  233. Implied Volatility | 10min
+  234. In The Money [ITM] | 1min
+  235. Instructions for Tab 1.1 | 4min
+  236. Instructions for Tab 1.2 | 2min
+  237. Instructions for Tab 1.3 | 2min
+  238. Instructions for Tab 1.4 | 1min
+  239. Instructions for Tab 2.1 | 2min
+  240. Instructions for Tab 2.2 | 2min
+  241. Instructions for Tab 2.3 | 1min
+  242. Instructions for Tab 2.4 | 1min
+  243. Instructions for Tab 3.1 | 3min
+  244. Instructions for Tab 3.2 | 2min
+  245. Instructions for Tab 3.3 | 4min
+  246. Instructions for Tab 3.4 | 8min
+  247. Instructions for Tab 3.5 | 4min
+  248. Interest Rate | 2min
+  249. Intrinsic | 1min
+  250. Inverse Broken Wing Butterfly Option Strategy with Calls (Uses 4 Options) | 6min
+  251. Inverse Broken Wing Butterfly Option Strategy with Puts (Uses 4 Options) | 5min
+  252. Inverse Skip Butterfly with Calls Option Strategy (Uses 4 Options) | 6min
+  253. Inverse Skip Butterfly with Puts Option Strategy (Uses 4 Options) | 5min
+  254. Inverse Split Strike Butterfly Option Strategy for Calls (Uses 4 Options) | 6min
+  255. Inverse Split Strike Butterfly Option Strategy for Puts (Uses 4 Options) | 5min
+  256. Iron Butterfly (Buying) Option Strategy (Uses 4 Options) | 3min
+  257. Iron Butterfly (Selling) Option Strategy (Uses 4 Options) | 3min
+  258. Iron Condor (Buying) Option Strategy (Uses 4 Options) | 5min
+  259. Iron Condor (Selling) Option Strategy (Uses 4 Options) | 7min
+  260. LEAPs Call Option Strategy (Uses 1 Option) | 3min
+  261. LEAPs Diagonal Spread Option Strategy (Uses 2 Options) | 3min
+  262. LEAPs Put Option Strategy (Uses 1 Option) | 3min
+  263. Leveraged Covered Call Option Strategy (Uses 2 Options) | 3min
+  264. Limit Order | 3min
+  265. Long Call Option Strategy (Uses 1 Option) | 6min
+  266. Long Call Spread Option Strategy (Uses 2 Options) | 5min
+  267. Long Combination Option Strategy (Uses 2 Options) | 3min
+  268. Long Combo Option Strategy (Uses 2 Options) | 3min
+  269. Long | 5min
+  270. Long Put Option Strategy (Uses 1 Option) | 4min
+  271. Long Put Spread Option Strategy (Uses 2 Options) | 4min
+  272. Long Straddle Option Strategy (Uses 2 Options) | 6min
+  273. Long Strangle Option Strategy (Uses 2 Options) | 6min
+  274. Margin | 3min
+  275. Market Order | 3min
+  276. Married Put Option Strategy (Uses 1 Option and 1 Stock. Also called a Protective | 5min
+  277. Monte Carlo Simulation Option Valuation | 5min
+  278. Multiplier | 2min
+  279. Naked Call Option Strategy (Uses 1 Option) | 6min
+  280. Naked Put Option Strategy (Uses 1 Option) | 4min
+  281. Normal Distribution | 7min
+  282. Open Interest | 3min
+  283. Option Chain | 1min
+  284. Option Clearing Corporation | 1min
+  285. Option Inputs | 2min
+  286. Option Price | 2min
+  287. Options Exchanges | 1min
+  288. Out of the Money [OTM] | 1min
+  289. Pay Later Call Option Strategy (Uses 3 Options) | 4min
+  290. Pay Later Put Option Strategy (Uses 3 Options) | 2min
+  291. Protective Collar Option Strategy (Uses 2 Options) | 3min
+  292. Protective Put Option Strategy (Uses 1 Option and 1 Stock) | 9min
+  293. Put Option | 7min
+  294. Ratio Vertical Spread Option Strategy (Uses 3 Options) | 1min
+  295. Ratio Volatility Spread Option Strategy (Uses 3 Options) | 2min
+  296. Rho | 2min
+  297. Risk Management | 7min
+  298. Sell to Close | 1min
+  299. Sell to Open | 1min
+  300. Selling Options | 5min
+  301. Short Call Option Strategy (Uses 1 Option) | 6min
+  302. Short Call Spread Option Strategy (Uses 2 Options) | 4min
+  303. Short Combination Option Strategy (Uses 2 Options) | 3min
+  304. Short | 5min
+  305. Short Put Option Strategy (Uses 1 Option) | 4min
+  306. Short Put Spread Option Strategy (Uses 2 Options) | 3min
+  307. Short Straddle Option Strategy (Uses 2 Options) | 5min
+  308. Shorting Options | 5min
+  309. Skip Strike Butterfly with Calls Option Strategy (Uses 4 Options) | 3min
+  310. Skip Strike Butterfly with Puts Option Strategy (Uses 4 Options) | 2min
+  311. Strike Price | 2min
+  312. Swaps | 4min
+  313. Synthetic Long Stock Option Strategy (Uses 2 Options) | 3min
+  314. Synthetic Short Stock Option Strategy (Uses 2 Options) | 3min
+  315. Technical Analysis | 8min
+  316. Theta | 1min
+  317. Time Decay | 1min
+  318. Uncovered Call Option Strategy (Uses 1 Option) | 6min
+  319. Uncovered Put Option Strategy (Uses 1 Option) | 4min
+  320. Underlying | 1min
+  321. Valuation Based Investment Analysis | 10min
+  322. Vega | 1min
+  323. Vertical Spread Option Strategy (Uses 2 Options) | 4min
+  324. Vix | 5min
+  325. Volatility | 10min
+  326. Volume | 3min
+  327. Writing Options | 5min
+Section 18: Optional Microsoft Excel Tutorial Section: How I Made the Excel Spreadsheets
+  328. [A] Intro to How I Created the Excel Spreadsheets Without Any Code or Macros | 1min
+  329. [A] How to Create the Buttons and Menu at the Top of Your Excel Dashboard | 21min
+  330. [A] How to Make Check Boxes | 9min
+  331. [A] How to Make Option Controls (Radio Controls) in Excel | 7min
+  332. [A] How to Filter Data and Using "APIs" or Customized Internet Links | 10min
+  333. [A] Aligning Images, Naming Cells, Linking CSV Content, Charts & Data Formatting | 17min
+  334. [A] Image Formatting and Resizing Options with Grouped Cells & Spinners | 7min
+  335. [A] Creating the Ticker Array, Asset Classes & Formulas Using Named Ranges | 14min
+  336. [A] Charting Options (Based on Data in Hidden Tabs) | 3min
+  337. [A] Creating Reports Using Check Boxes and Named Ranges | 8min
+  338. [A] Conditional Formatting, Green Screen & Excel, Monte Carlo Sim. & Random #s | 12min
+  339. [A] Making the Progress Tab & Adding Arrays to the Reports | 13min
+Section 19: Optional Photoshop Tutorial Section: How I Made the Photoshop Images
+  340. [A] How I Used Photoshop Excel Images (Layering, Naming & Image Editing+Sources) | 15min
+  341. [A] Adding Text in Photoshop and Exporting Layers | 11min
+Section 20: Course Conclusion & Next Steps
+  342. [B/G/A] Course Conclusion & Next Steps | 1min
+Section 21: Bonus Materials
+  343. Bonus Items | 2min
